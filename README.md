@@ -5,5 +5,5 @@
 1. Once installed, log-in and activate the license.
 2. When you have completed the entire procedure, **proceed to update the Hub to the latest version from the program itself.**
 
-## Warning!
+## **WARNING!**
 **Update it from the Hub itself, don't update manually because you would have problems with license management.**
